@@ -1,0 +1,118 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:#161032;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+.First{
+    padding: 20px 30px;
+    margin-bottom: 10px;
+    
+}
+h1{
+    text-align: center;
+    font-size: 45px;
+    font-family: cursive;
+    color: #FAFF81;
+}
+img{
+    width: 50%;
+    border-radius: 50%;
+    margin-left: 25%;
+    border: 10px dashed #FAFF81;
+    margin-bottom: 5px;
+}
+.First p{
+    font-size: 30px;
+    color: #fff;
+    text-align: center;
+    font-weight: lighter;
+}
+.Second{
+    padding: 20px 30px;
+    margin-bottom: 10px;
+    
+}
+h2{
+    font-size: 31px;
+    color:#FAFF81;
+    font-family: cursive;
+    text-align: center;
+}
+.Second p{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    font-weight: lighter;
+
+}
+.Third{
+    padding: 20px 30px;
+    margin-bottom: 10px;
+ 
+}
+h3{
+    font-size: 28px;
+    color:#FAFF81;
+    font-family: cursive;
+    text-align: center;
+
+}
+table{
+    width: 100%;
+    text-align: center;
+    
+}
+.sixth{
+    color: #FAFF81;
+    font-size: 27px;
+    font-weight: bold;
+}
+.Fifth{
+    padding: 20px 30px;
+    margin-bottom: 10px;
+
+}
+.Fourth{
+    padding: 20px 30px;
+    margin-bottom: 10px;
+    
+    
+    
+}
+h4{
+    color: #FAFF81;
+    font-size: 23px; 
+    text-align: center;
+}
+.Fourth a{
+    text-decoration: none;
+    text-align: center;
+    margin-left: 8px;
+    font-size: 20px;
+    color: white;
+    display: inline-block;
+}
+button{
+    text-align: center;
+    width: 150px;
+    height: 50px;
+    background-color: #FAFF81;
+    color: #161032;
+    font-size: 22px;
+    border: none;
+    text-decoration: none;
+    margin:0 0 5px 50%;
+}
+button a{
+    color: #161032;
+    font-size: 22px;
+    border: none;
+    text-decoration: none;
+
+}
+
+
+
